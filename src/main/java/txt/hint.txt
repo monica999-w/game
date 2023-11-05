@@ -1,0 +1,4 @@
+java:A popular programming language.
+programming:The process of writing computer code.
+hangman:A word guessing game.
+game:An activity for fun and recreation.
